@@ -111,5 +111,5 @@ Some of the limitations that would be helpful in making this dataset more robust
 
 ![US_vs_GB_Theater_Launch](https://github.com/amylio/kickstarter-analysis/blob/main/Resources/Images/US_vs_GB_Theater_Launch.png)
 
-**Completed dataset used with pivot tables and charts used for this analysis: [kickstarter_challenge](https://github.com/amylio/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)**
+**Completed dataset with pivot tables and charts used for this analysis: [kickstarter_challenge](https://github.com/amylio/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)**
 
